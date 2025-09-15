@@ -1,14 +1,21 @@
 # REGISTRATION-PRIVATE-LIMITED-LIABILITY-COMPANY
+
 ## MEANING##
+
 A Private Limited Company, a business entity that functions as a separate legal personality from its owners (shareholders) and protects the owners' personal assets from the company's debts and liabilities.A private Limited company Suitable for small to medium-sized businesses; requires at least one director and one shareholder and a maximun no of 50 members in total. ownership is confined to a limited number of shareholders, and its shares are not available for public trading on stock exchanges. This structure ensures that control remains within a close-knit group of individuals or entities.
+
 ##DIRECTORSHIP##
 A private limited company needs at least one director in Kenya, who must be a natural person. However, the exact number can vary by jurisdiction; for example, in India, a private limited company requires a minimum of two directors. It is essential to check the specific company laws of the country where the company is being incorporated to determine the precise requirement.The Companies Act 2015 allows for a single person to be both the sole director and shareholder of a private limited company, while also allowing for multiple individuals to hold both roles.
+
 ##SHAREHOLDING##
 New shareholders are first appointed when a company is incorporated( when the company is being registered for instance e.g PEGMAL when reistering it we will go with the initial shares in which the share value should be decided), with details of the initial shareholders submitted to the Registrar of Companies.About on how to become a shareholder in a limited company, you must purchase shares either directly from the company or through a stock exchange.private limited company, capital gains are typically paid to shareholders in the form of dividends. The distribution is based on the percentage of shares held by each shareholder, ensuring a proportional share of the company's earnings.
 For this case in PEGMAL the members are tasked to decide the value of a share e.g 1 share = to 100, 200,300 e.t.c so as to get the number of shares each member holds, to help is also ascertaing the nominal capital of the company and finally in paying dividence annually.
+
 ##NOMINALCAPITAL)
 Is the total you get from mutliplying the total shares held by each individual by the value of each shares for example if shareholders in pegmal have a total of 100 shares and each share has a value of the Kes 200/= the nominal capital will be kes 20,000/=.
+
 ##REQUIREMENTS FOR ##
+
 ##1. Name Reservation##
 eCitizen Account: You must have a registered eCitizen account to begin the process. 
 Proposed Names: Provide three to five proposed business names in order of priority for approval.
