@@ -47,8 +47,8 @@ All details are submitted through the Business Registration Service (BRS) portal
 Form Submission:
 Fill in the company, director, and shareholder details, then download, sign, scan, and upload the auto-generated forms.
 Payment:
-Pay the required registration fee, which was Kshs. 10,750 as of the information's last update.
+Pay the required registration fee, which was Kshs. 10,650 as of the information's last update.
 
 ## 5. Post-Registration ##
 KRA PIN: Obtain a KRA PIN for the company, which is necessary for tax purposes.
-VAT Registration: Register for Value Added Tax (VAT) if your business turnover is expected to exceed Kshs. 5 million per year.
+VAT Registration: Register for Value Added Tax (VAT) if your business turnover is expected to exceed Kshs. 5 million per year ## not applicable for us## .
