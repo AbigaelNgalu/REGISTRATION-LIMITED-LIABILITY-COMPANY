@@ -14,7 +14,7 @@ For this case in PEGMAL the members are tasked to decide the value of a share e.
 ## NOMINAL CAPITAL
 Is the total you get from mutliplying the total shares held by each individual by the value of each shares for example if shareholders in pegmal have a total of 100 shares and each share has a value of the Kes 200/= the nominal capital will be kes 20,000/=.
 
-## REQUIREMENTS FOR 
+## REQUIREMENTS FOR REGISTRATION
 
 ## 1. Name Reservation
 eCitizen Account: You must have a registered eCitizen account to begin the process. 
